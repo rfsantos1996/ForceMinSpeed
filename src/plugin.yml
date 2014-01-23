@@ -1,5 +1,5 @@
 name: ForceMinSpeed
-version: 0.4
+version: 0.4.1
 author: rfsantos1996
 main: com.jabyftw.forceminspeed.ForceMinSpeed
-description: Simple plugin to change food level to 6
+description: Simple plugin to change food level for everyone
